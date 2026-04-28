@@ -1,4 +1,4 @@
-[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&color=70A5FD&width=500&lines=Hey+there!+I'm+Rishi+👋;Software+Engineer+%7C+Avid+Learner;Full+Stack+Developer;Cloud+%26+AI+Enthusiast;Always+building+something+new...)](https://git.io/typing-svg)
+[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&color=70A5FD&width=500&lines=Hey+there!+I'm+Rishi+👋;Data+Wizard+%7C+Avid+Learner;Vibe+Developer;Cloud+%26+AI+Enthusiast;Always+building+something+new...)](https://git.io/typing-svg)
 
 ![Profile Views](https://komarev.com/ghpvc/?username=rishi-dasari&color=70A5FD&style=flat)
 
@@ -20,10 +20,10 @@ const aboutMe = {
             // Add your past roles here
         ],
     },
-    workingOn: "Building scalable and resilient solutions",
-    learning: ["System Design", "Data Structures & Algorithms"],
+    workingOn: "Building Cine Banisa",
+    learning: ["AI", "Agenting", "AI Orchestrating"],
     socials: {
-        linkedin: "https://www.linkedin.com/in/rishi-dasari",
+        linkedin: "https://www.linkedin.com/in/dmrishi",
         email:    "your-email@example.com",
     }
 }
