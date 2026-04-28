@@ -14,7 +14,7 @@ const aboutMe = {
 }
 ```
 
-![github contribution grid snake](https://raw.githubusercontent.com/rishi-dasari/rishi-dasari/output/github-snake.svg)
+![github contribution grid snake](https://raw.githubusercontent.com/rishi-dasari/rishi-dasari/output/github-snake-dark.svg)
 
 <br/>
 
