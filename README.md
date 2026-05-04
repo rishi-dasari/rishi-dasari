@@ -12,14 +12,6 @@ const aboutMe = {
         first: "Rishi",
         last: "Dasari",
     },
-    experience: {
-        current: [
-            // Add your current roles here
-        ],
-        previous: [
-            // Add your past roles here
-        ],
-    },
     workingOn: "Building Cine Banisa",
     learning: ["AI", "Agenting", "AI Orchestrating"],
     socials: {
