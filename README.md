@@ -38,8 +38,8 @@ const aboutMe = {
 
 ### 📊 GitHub Stats
 
-![Rishi's GitHub stats](https://github-readme-stats.vercel.app/api?username=rishi-dasari&show_icons=true&theme=tokyonight)
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=rishi-dasari&theme=tokyonight)
+<img src="https://github-readme-stats.vercel.app/api?username=rishi-dasari&theme=tokyonight&show_icons=true" />
+<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=rishi-dasari&theme=tokyonight&layout=compact" />
 
 [![GitHub Streak](https://streak-stats.demolab.com?user=rishi-dasari&theme=tokyonight&hide_border=true)](https://git.io/streak-stats)
 
